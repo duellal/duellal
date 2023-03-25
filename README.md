@@ -1,10 +1,10 @@
 <h1 align="center"> About Alex </h1>
 <div>
-<p style="text-indent: 25px"> 
+<p align="center"> 
 I am a detail oriented professional who strives for quality over quantity. I want to make sure the products I am working on meet the specifications exactly and are the best code I can produce. I am open to suggestions and better ways to get the same result. I want to make sure the product is the best that it can be.
 </p>
 
-<p style="text-indent: 25px">
+<p align="center">
 When I'm not coding, I love to play table top role playing games (ttrpgs) :elf_woman:, board games, read :book:, craft/make art :art:, go for a swim :swimming_woman:, and cuddle with my cats while watching a show :cat:.
 </p>
 </div>
