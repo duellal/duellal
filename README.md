@@ -18,6 +18,7 @@ When I'm not coding, I love to play table top role playing games (ttrpgs) :elf_w
     <img alt="React" src="https://img.shields.io/badge/react-202020?style=for-the-badge&logo=react">
     <img alt="Redux" src="https://img.shields.io/badge/redux-blueviolet?style=for-the-badge&logo=redux&logoColor=white">
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black">
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-0F172B?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4">
 </p>
 
 <h3 align="center"> Back End: </h3>
@@ -27,6 +28,7 @@ When I'm not coding, I love to play table top role playing games (ttrpgs) :elf_w
     <img alt="Sqlite" src="https://img.shields.io/badge/sqlite-0C354C?style=for-the-badge&logo=sqlite&logoColor=6DBFEA">
     <img alt="Express" src="https://img.shields.io/badge/express-7B7B7B?style=for-the-badge&logo=express&logoColor=black">
     <img alt="Python" src="https://img.shields.io/badge/python-F2C336?style=for-the-badge&logo=python">
+    <img alt="Prisma" src="https://img.shields.io/badge/Prisma-0B354B?style=for-the-badge&logo=prisma&logoColor=white">
 </p>
 
 <h3 align="center"> Testing: </h3>
