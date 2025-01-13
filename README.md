@@ -17,8 +17,7 @@ When I'm not coding, I love to play table top role playing games (ttrpgs) :elf_w
     <img alt="CSS3" src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3">
     <img alt="React" src="https://img.shields.io/badge/react-202020?style=for-the-badge&logo=react">
     <img alt="Redux" src="https://img.shields.io/badge/redux-blueviolet?style=for-the-badge&logo=redux&logoColor=white">
-    <img alt="Flutter" src="https://img.shields.io/badge/flutter-5AC2F0?style=for-the-badge&logo=flutter&logoColor=045697">
-    <img alt="Dart" src="https://img.shields.io/badge/dart-025596?style=for-the-badge&logo=dart&logoColor=52D6C4">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black">
 </p>
 
 <h3 align="center"> Back End: </h3>
@@ -27,7 +26,6 @@ When I'm not coding, I love to play table top role playing games (ttrpgs) :elf_w
     <img alt="Postgres" src="https://img.shields.io/badge/postgres-30628A?style=for-the-badge&logo=postgresql&logoColor=lightblue">
     <img alt="Sqlite" src="https://img.shields.io/badge/sqlite-0C354C?style=for-the-badge&logo=sqlite&logoColor=6DBFEA">
     <img alt="Express" src="https://img.shields.io/badge/express-7B7B7B?style=for-the-badge&logo=express&logoColor=black">
-    <img alt="Supabase" src="https://img.shields.io/badge/supabase-1D1D1D?style=for-the-badge&logo=supabase">
     <img alt="Python" src="https://img.shields.io/badge/python-F2C336?style=for-the-badge&logo=python">
 </p>
 
